@@ -1,7 +1,4 @@
- 
-
-
- 
+  
 #I Declared a variable that stores a value in a memory for salim to store his salary for the month 
 salim_salary=float(input("Salim please enter your salary for the month : "))
 
